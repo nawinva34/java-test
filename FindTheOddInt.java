@@ -15,7 +15,6 @@ public class FindTheOddInt {
                 return num;
             }
         }
-
         return Integer.MIN_VALUE;
     }
 
