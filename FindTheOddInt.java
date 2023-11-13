@@ -20,12 +20,10 @@ public class FindTheOddInt {
     }
 
     public static void main(String[] args) {
-        // Example usage
         System.out.println(findOddOccurrence(new int[]{7}));                                     // Output: 7
         System.out.println(findOddOccurrence(new int[]{0}));                                     // Output: 0
         System.out.println(findOddOccurrence(new int[]{1, 1, 2}));                               // Output: 2
         System.out.println(findOddOccurrence(new int[]{0, 1, 0, 1, 0}));                         // Output: 0
         System.out.println(findOddOccurrence(new int[]{1, 2, 2, 3, 3, 3, 4, 3, 3, 3, 2, 2, 1})); // Output: 4
-        System.out.println(findOddOccurrence(new int[]{1, 1, 2, 1, 3, 2})); 
     }
 }
