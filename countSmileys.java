@@ -18,7 +18,6 @@ public class countSmileys {
     }
 
     public static void main(String[] args) {
-        // Test cases
         String[] test1 = {":)", ";(", ";}", ":-D"};
         String[] test2 = {";D", ":-(", ":-)", ";~)"};
         String[] test3 = {";]", ":[", ";*", ":$", ";-D"};
