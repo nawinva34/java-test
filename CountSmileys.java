@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class countSmileys {
+public class ountSmileys {
 
     public static int countSmy(String[] arr) {
         List<String> smileys = new ArrayList<>();
